@@ -12,3 +12,5 @@
 Running the creat_data_DC to preprocess the dataset.
 
 Running the training_Classification/Regression to train the model.
+
+Please refer to [SDDSynergy](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00177) for the dataset.
